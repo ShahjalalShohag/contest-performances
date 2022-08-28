@@ -16,10 +16,12 @@
 | [BUP IUPC 2019](https://algo.codemarshal.org/contests/bup-iupc-19/standings) | SUST_Automaton| 8 | Team | National |
 | [IUT IUPC 2019](https://toph.co/c/iut-ict-fest-2019/standings) | SUST_Automaton| 10 | Team | National |
 | [National ICT Day Contest 2018](https://toph.co/c/national-ict-day-2018/standings) | YouKnowWho| 1 | Individual | National |
+| [BRACU Techfest 2021](https://toph.co/c/bracu-joyjatra-50-techfest-inter-university/standings) | Shahjalal Shohag| 4 | Individual | National |
 | [Codeforces Round #798 (Div. 2)](https://codeforces.com/contest/1689) | YouKn0wWho| 13 | Individual | International |
 | [Codeforces Round #689 (Div. 2)](https://codeforces.com/contest/1461) | YouKn0wWho| 24 | Individual | International |
 | [Educational Codeforces Round 125 (Div. 2)](https://codeforces.com/contest/1657) | YouKn0wWho| 34 | Individual | International |
 | [Codeforces Round #599 (Div. 2)](https://codeforces.com/contest/1243) | YouKn0wWho| 45 | Individual | International |
 | [Educational Codeforces Round 74](https://codeforces.com/contest/1238) | YouKn0wWho| 48 | Individual | International |
+| [Google Kick Start Round F 2021](https://drive.google.com/file/d/1Y-6c4zobKFBpTbYKrOopVD6NAz0fnESq/view) | YouKn0wWho| 36 | Individual | International |
 
 Last Updated: 29 Aug, 2022
