@@ -3,13 +3,15 @@
 | Contest | Username | Rank | Type | Scope
 | -- | -------- | ----------- | ---- | ---- |
 | [RUET IUPC 2019](https://algo.codemarshal.org/contests/ruet-iupc-19/standings) | SUST_Braindead_Zombies| 2 | Team | National |
-| [BUET IUPC 2019](https://toph.co/c/buet-inter-university-2022/standings) | BerlekampMassey| 2 | Team | National |
+| [BUET IUPC 2022](https://toph.co/c/buet-inter-university-2022/standings) | BerlekampMassey| 2 | Team | National |
 | [ICPC Dhaka Regional 2020 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-20-preli/standings) | BerlekampMassey| 2 | Team | National |
 | [RUET IUPC 2022](https://algo.codemarshal.org/contests/ruet-2022/standings) | BerlekampMassey| 3 | Team | National |
 | [AUST IUPC 2022](https://algo.codemarshal.org/contests/aust-2022/standings) | BerlekampMassey| 3 | Team | National |
-| [ICPC Dhaka Regional 2019 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-20-preli/standings) | SUST_Whiplash| 3 | Team | National |
+| [ICPC Dhaka Regional 2019 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-19-preli/standings) | SUST_Whiplash| 3 | Team | National |
+| [ICPC Dhaka Regional 2021 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings) | BerlekampMassey| 4 | Team | National |
 | [MIST NCPC 2020](https://algo.codemarshal.org/contests/mist-ncpc-2020/standings) | SUST_SlowFourierFransTorm| 5 | Team | National |
 | [ICPC Dhaka Regional 2019](https://algo.codemarshal.org/contests/icpc-dhaka-19-onsite-main/standings) | SUST_Whiplash| 5 | Team | National |
+| [ICPC Dhaka Regional 2021](https://algo.codemarshal.org/contests/dhaka-21-main/standings) | BerlekampMassey| 6 | Team | National |
 | [SUST IUPC 2019](https://toph.co/c/sust-iupc-2019/standings) | LittleFinger is NOT DEAD| 6 | Team | National |
 | [KUET IUPC 2019](https://algo.codemarshal.org/contests/kuet-iupc-19/standings) | SUST_Tritons| 6 | Team | National |
 | [LU IUPC 2019](https://toph.co/c/lu-cse-carnival-iupc-2019/standings) | SUST_DIXAN| 7 | Team | National |
@@ -24,4 +26,4 @@
 | [Educational Codeforces Round 74](https://codeforces.com/contest/1238) | YouKn0wWho| 48 | Individual | International |
 | [Google Kick Start Round F 2021](https://drive.google.com/file/d/1Y-6c4zobKFBpTbYKrOopVD6NAz0fnESq/view) | YouKn0wWho| 36 | Individual | International |
 
-Last Updated: 29 Aug, 2022
+Last Updated: 21 Dec, 2022
