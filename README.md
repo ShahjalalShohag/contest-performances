@@ -2,9 +2,12 @@
 
 | Contest | Username | Rank | Type | Scope
 | -- | -------- | ----------- | ---- | ---- |
+| [BUET IUPC 2023](https://toph.co/c/buet-inter-university-2023/standings) | SUST_GuessForces | 1 | Team | National |
+| [ICPC Dhaka Regional 2023](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings) | SUST_GuessForces | 2 | Team | National |
 | [RUET IUPC 2019](https://algo.codemarshal.org/contests/ruet-iupc-19/standings) | SUST_Braindead_Zombies| 2 | Team | National |
 | [BUET IUPC 2022](https://toph.co/c/buet-inter-university-2022/standings) | BerlekampMassey| 2 | Team | National |
 | [ICPC Dhaka Regional 2020 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-20-preli/standings) | BerlekampMassey| 2 | Team | National |
+| [SUST IUPC 2023](https://toph.co/c/sust-inter-university-2023/standings) | SUST_GuessForces | 3 | Team | National |
 | [RUET IUPC 2022](https://algo.codemarshal.org/contests/ruet-2022/standings) | BerlekampMassey| 3 | Team | National |
 | [AUST IUPC 2022](https://algo.codemarshal.org/contests/aust-2022/standings) | BerlekampMassey| 3 | Team | National |
 | [ICPC Dhaka Regional 2019 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-19-preli/standings) | SUST_Whiplash| 3 | Team | National |
