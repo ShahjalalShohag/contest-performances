@@ -32,4 +32,4 @@
 | [Educational Codeforces Round 74](https://codeforces.com/contest/1238) | YouKn0wWho| 48 | Individual | International |
 | [Google Kick Start Round F 2021](https://drive.google.com/file/d/1Y-6c4zobKFBpTbYKrOopVD6NAz0fnESq/view) | YouKn0wWho| 36 | Individual | International |
 
-Last Updated: 28 Dec, 2023
+Last Updated: 6 Mar, 2024
