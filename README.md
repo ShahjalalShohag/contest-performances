@@ -4,9 +4,9 @@
 | -- | -------- | ----------- | ---- | ---- |
 | [BUET IUPC 2023](https://toph.co/c/buet-inter-university-2023/standings) | SUST_GuessForces | 1 | Team | National |
 | [SUST IUPC 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | SUST_GuessForces | 1 | Team | National |
-| [NCPC Preliminary JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | SUST_GuessForces | 1 | Team | National |
+| [NCPC Preliminary JU 2024](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | SUST_GuessForces | 1 | Team | National |
 | [ICPC Dhaka Regional 2023](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings) | SUST_GuessForces | 2 | Team | National |
-| [NCPC Onsite JU 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju) | SUST_GuessForces | 2 | Team | National |
+| [NCPC Onsite JU 2024](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju) | SUST_GuessForces | 2 | Team | National |
 | [RUET IUPC 2019](https://algo.codemarshal.org/contests/ruet-iupc-19/standings) | SUST_Braindead_Zombies| 2 | Team | National |
 | [BUET IUPC 2022](https://toph.co/c/buet-inter-university-2022/standings) | BerlekampMassey| 2 | Team | National |
 | [ICPC Dhaka Regional 2020 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-20-preli/standings) | BerlekampMassey| 2 | Team | National |
