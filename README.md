@@ -10,6 +10,7 @@
 | [RUET IUPC 2019](https://algo.codemarshal.org/contests/ruet-iupc-19/standings) | SUST_Braindead_Zombies| 2 | Team | National |
 | [BUET IUPC 2022](https://toph.co/c/buet-inter-university-2022/standings) | BerlekampMassey| 2 | Team | National |
 | [ICPC Dhaka Regional 2020 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-20-preli/standings) | BerlekampMassey| 2 | Team | National |
+| [ICPC Asia West Continent Final Contest 2023](https://codedrills.io/contests/icpc-asia-west-continent-final-contest-2023/scoreboard) | SUST_GuessForces | 3 | Team | International |
 | [SUST IUPC 2023](https://toph.co/c/sust-inter-university-2023/standings) | SUST_GuessForces | 3 | Team | National |
 | [RUET IUPC 2022](https://algo.codemarshal.org/contests/ruet-2022/standings) | BerlekampMassey| 3 | Team | National |
 | [AUST IUPC 2022](https://algo.codemarshal.org/contests/aust-2022/standings) | BerlekampMassey| 3 | Team | National |
@@ -34,4 +35,4 @@
 | [Educational Codeforces Round 74](https://codeforces.com/contest/1238) | YouKn0wWho| 48 | Individual | International |
 | [Google Kick Start Round F 2021](https://drive.google.com/file/d/1Y-6c4zobKFBpTbYKrOopVD6NAz0fnESq/view) | YouKn0wWho| 36 | Individual | International |
 
-Last Updated: 10 Mar, 2024
+Last Updated: 5 April, 2024
