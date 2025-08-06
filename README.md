@@ -17,6 +17,7 @@
 | [ICPC Dhaka Regional 2019 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-19-preli/standings) | SUST_Whiplash| 3 | Team | National |
 | [CUET IUPC 2024](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings) | SUST_GuessForces | 3 | Team | National |
 | [ICPC World Finals 2021](https://cphof.org/standings/icpc/2021) | BerlekampMassey | 56 | Team | International |
+| [ICPC World Finals 2023](https://cphof.org/standings/icpc/2023) | BerlekampMassey | 70 | Team | International |
 | [ICPC Dhaka Regional 2021 Preliminary](https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings) | BerlekampMassey| 4 | Team | National |
 | [MIST NCPC 2020](https://algo.codemarshal.org/contests/mist-ncpc-2020/standings) | SUST_SlowFourierFransTorm| 5 | Team | National |
 | [ICPC Dhaka Regional 2019](https://algo.codemarshal.org/contests/icpc-dhaka-19-onsite-main/standings) | SUST_Whiplash| 5 | Team | National |
